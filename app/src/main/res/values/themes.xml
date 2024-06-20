@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TVL" parent="@style/Theme.Leanback" />
+</resources>
